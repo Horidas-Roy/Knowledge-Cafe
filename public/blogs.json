@@ -1,0 +1,47 @@
+
+[
+    {
+        "id": "12345",
+        "cover_img": "https://i.ibb.co/qnjWSkr/elegant-breakfast-with-coffee-croissants.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
+        "posted_date": "September 14, 2023",
+        "reading_time": 8,
+        "hashtags": ["#Technology", "#Innovation", "#Gadgets"]
+    },
+    {
+        "id": "67890",
+        "cover_img": "https://i.ibb.co/1mKXLT4/sandwich-walnuts-avocado.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
+        "posted_date": "September 15, 2023",
+        "reading_time": 6,
+        "hashtags": ["#Science", "#Discoveries", "#Research"]
+    },
+    {
+        "id": "54321",
+        "cover_img": "https://i.ibb.co/0Ydy1PR/close-up-person-s-hand-typing-laptop-with-calculator-coffee-cup-spiral-notepad-with-pencil-wooden-de.jpg",
+        "author": "Robert Johnson",
+        "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
+        "posted_date": "September 16, 2023",
+        "reading_time": 10,
+        "hashtags": ["#Travel", "#Adventure", "#Explore"]
+    },
+    {
+        "id": "98765",
+        "cover_img": "https://i.ibb.co/7WcqtBF/woman-s-hand-arranging-fresh-flowers-vase.jpg",
+        "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
+        "posted_date": "September 17, 2023",
+        "reading_time": 5,
+        "hashtags": ["#Health", "#Wellness", "#Fitness"]
+    },
+    {
+        "id": "24680",
+        "cover_img": "https://i.ibb.co/pfMzLdy/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
+        "posted_date": "September 18, 2023",
+        "reading_time": 7,
+        "hashtags": ["#Food", "#Cuisine", "#Recipes"]
+    }
+]
