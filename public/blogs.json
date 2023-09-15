@@ -3,6 +3,7 @@
     {
         "id": "12345",
         "cover_img": "https://i.ibb.co/qnjWSkr/elegant-breakfast-with-coffee-croissants.jpg",
+        "tittle":"How to get your first job as a self-taught programmer",
         "author": "John Doe",
         "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
         "posted_date": "September 14, 2023",
@@ -12,6 +13,8 @@
     {
         "id": "67890",
         "cover_img": "https://i.ibb.co/1mKXLT4/sandwich-walnuts-avocado.jpg",
+        "tittle":"How to get your first job as a self-taught programmer",
+
         "author": "Jane Smith",
         "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
         "posted_date": "September 15, 2023",
@@ -21,6 +24,8 @@
     {
         "id": "54321",
         "cover_img": "https://i.ibb.co/0Ydy1PR/close-up-person-s-hand-typing-laptop-with-calculator-coffee-cup-spiral-notepad-with-pencil-wooden-de.jpg",
+        "tittle":"How to get your first job as a self-taught programmer",
+
         "author": "Robert Johnson",
         "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
         "posted_date": "September 16, 2023",
@@ -30,6 +35,8 @@
     {
         "id": "98765",
         "cover_img": "https://i.ibb.co/7WcqtBF/woman-s-hand-arranging-fresh-flowers-vase.jpg",
+        "tittle":"How to get your first job as a self-taught programmer",
+
         "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
         "posted_date": "September 17, 2023",
         "reading_time": 5,
@@ -38,6 +45,8 @@
     {
         "id": "24680",
         "cover_img": "https://i.ibb.co/pfMzLdy/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "tittle":"How to get your first job as a self-taught programmer",
+
         "author": "Michael Brown",
         "author_img": "https://i.ibb.co/SB1fzqC/portrait-concentrated-mature-authoress-sitting-table.jpg",
         "posted_date": "September 18, 2023",
